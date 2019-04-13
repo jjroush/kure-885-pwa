@@ -1,8 +1,8 @@
 {
-  "name": "Webplayer for 88.5 KURE",
+  "name": "webplayer-for-885-kure",
   "private": true,
   "description": "Simple PWA to stream 88.5 KURE",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "Jacob Roush",
   "dependencies": {
     "gatsby": "^2.3.16",
