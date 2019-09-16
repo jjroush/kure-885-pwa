@@ -36,6 +36,7 @@ const Layout = ({ children }) => (
         >
           <main>{children}</main>
         </div>
+        <p style={{ textAlign: `center` }}>{"Built with ❤️ by Jacob Roush"}</p>
       </>
     )}
   />
